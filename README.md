@@ -36,7 +36,7 @@ rustloom/
 ### Run the server
 
 ```bash
-git clone https://github.com/<your-username>/rustloom.git
+git clone https://github.com/killuazoldyck680/rustloom.git
 cd rustloom
 cargo run
 ```
