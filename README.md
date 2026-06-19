@@ -4,7 +4,7 @@ A multithreaded HTTP web server built from scratch in Rust, following Chapter 21
 
 ---
 
-## Features
+## Features kk
 
 - **Thread pool** — spawns a fixed number of worker threads to handle concurrent connections
 - **Channel-based job dispatch** — uses `mpsc` channels to send closures from the main thread to workers
